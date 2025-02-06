@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Adam3d5dsulJ87xjxvdennings
 
-<!--
-**Adam3d5dsulJ87xjxvdennings/Adam3d5dsulJ87xjxvdennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎽 🎾 🛼 🚵 A student of developer relations 🎽 🎾 🛼 🚵
 
-Here are some ideas to get you started:
+## About Me
+🛶 🌈 Curious about artificial intelligence 🛶 🌈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏒 🛶 🎤 Dedicated to mastering natural language processing 🏒 🛶 🎤
+
+### Fun Facts
+🏸 🏓 Innovating in the field of algorithms 🏸 🏓
+
+---
+💻 🌟 🎳 🏓 🎹 Thanks for visiting my profile! 🛹 🎨 🏄 🚵 🏑
